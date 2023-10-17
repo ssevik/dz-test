@@ -812,13 +812,13 @@ address {
   margin-right: 8px;
 }
 
-.user-privacy:checked + .modal-privacy > .span-privacy {
-  background-color: #404bbf;
-  border: none;
+.privacy-icon {
   fill: #f4f4fd;
 }
 
-.privacy-icon {
+.user-privacy:checked + .modal-privacy > .span-privacy {
+  background-color: #404bbf;
+  border: none;
   fill: #f4f4fd;
 }
 
