@@ -761,7 +761,7 @@ a {
 }
 
 .modal-input:focus,
-:hover {
+.modal-input:hover {
   border-color: #4d5ae5;
   fill: #4d5ae5;
 }
